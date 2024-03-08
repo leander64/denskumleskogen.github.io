@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.game-info {
+    text-align: center;
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 30px;
+    color: black;
+}
